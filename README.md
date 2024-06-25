@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mory Mirco Koulibaly</h1>
+<img alt="Roaa's Welcome Message"
+			 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=false&vCenter=false&lines=Hi+there!+I'm+Mory Mirco">
+
 <h3 align="center">Je suis développeur de logiciels et apprenant passionné, toujours prêt à apprendre et à travailler sur plusieurs technologies. J'aime explorer les nouvelles technologies et essayer de résoudre des problèmes réels.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morymirco&label=Profile%20views&color=0e75b6&style=flat" alt="morymirco" /> </p>

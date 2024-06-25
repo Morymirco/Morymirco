@@ -17,7 +17,9 @@
 
 - 📫 How to reach me **morykoulibaly2023@gmail.com**
   <br>
-
+<p align="right">
+  <img align="right" src="assets/images/theme.png" height="260"/>
+<p>
 <p align="left">
 </p>
  🧮 Visitors Count

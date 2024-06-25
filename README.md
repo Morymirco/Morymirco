@@ -25,7 +25,7 @@
 <p align="center">
   <img align="center" src = "https://profile-counter.glitch.me/sabikrahat/count.svg" alt ="Loading">
 </p> -->
-## ⚡ Technologies
+⚡ Technologies
 
 ![Flutter](https://img.shields.io/badge/Flutter-black?style=flat-square&logo=flutter&logoColor=blue)
 ![Dart](https://img.shields.io/badge/Dart-black?style=flat-square&logo=dart)

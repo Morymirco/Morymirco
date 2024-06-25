@@ -42,7 +42,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/morymirco"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="morymirco" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morymirco&show_icons=true&locale=en&layout=compact" alt="morymirco" /></p>
+
+<!-- Most Used Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morymirco&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morymirco&show_icons=true&locale=en" alt="morymirco" /></p>
 

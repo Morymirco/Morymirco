@@ -20,8 +20,7 @@
 <p align="right">
   <img align="right" src="theme.png" height="260"/>
 <p>
-<p align="left">
-</p>
+
  🧮 Visitors Count
 
 <p align="center">

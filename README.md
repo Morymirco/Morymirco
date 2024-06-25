@@ -52,10 +52,14 @@
   </a>
   <!-- <img align="right" width="300px" height="190px" src="https://user-images.githubusercontent.com/40064496/120735130-6c9e2300-c4c0-11eb-8346-94429163466a.gif" /> -->
 </p>
+<p>
+  <a align="left" href="https://github.com/morymirco/">
+    <img alt="Subham Raoniar's Github Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=sabikrahat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/morymirco/">
+    <img align="right" alt="Sabik Rahat's Top Languages" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabikrahat&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
 
+</p>
 <!-- Most Used Languages -->
-<div style="display: flex; justify-content: center; align-items: center;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morymirco&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morymirco&show_icons=true&locale=en" alt="morymirco" theme=dracula/></p>
-</div>

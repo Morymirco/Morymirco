@@ -24,7 +24,7 @@
 
 <p align="center">
   <img align="center" src = "https://profile-counter.glitch.me/sabikrahat/count.svg" alt ="Loading">
-</p> -->
+</p> 
 ⚡ Technologies
 
 ![Flutter](https://img.shields.io/badge/Flutter-black?style=flat-square&logo=flutter&logoColor=blue)
@@ -47,7 +47,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Sabikrahat/">
+  <a href="https://github.com/morymirco/">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" height="170px" alt="Sabik Rahat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sabikrahat&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
   </a>
   <!-- <img align="right" width="300px" height="190px" src="https://user-images.githubusercontent.com/40064496/120735130-6c9e2300-c4c0-11eb-8346-94429163466a.gif" /> -->

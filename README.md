@@ -1,5 +1,5 @@
 <img alt="Roaa's Welcome Message"
-			 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=false&vCenter=false&lines=Hi+there!+I'm+Sameer">
+			 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=false&vCenter=false&lines=Hi+there!+I'm+Mory">
 
 <h3 align="center">Je suis développeur de logiciels et apprenant passionné, toujours prêt à apprendre et à travailler sur plusieurs technologies. J'aime explorer les nouvelles technologies et essayer de résoudre des problèmes réels.</h3>
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mory Mirco Koulibaly</h1>
-<h3 align="center">Je suis passionné par le développement web et mobile.</h3>
+<h3 align="center">Je suis développeur de logiciels et apprenant passionné, toujours prêt à apprendre et à travailler sur plusieurs technologies. J'aime explorer les nouvelles technologies et essayer de résoudre des problèmes réels.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morymirco&label=Profile%20views&color=0e75b6&style=flat" alt="morymirco" /> </p>
 

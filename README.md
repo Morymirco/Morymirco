@@ -44,8 +44,10 @@
 
 
 <!-- Most Used Languages -->
+<div style="display:felx">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morymirco&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morymirco&show_icons=true&locale=en" alt="morymirco" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=morymirco&" alt="morymirco" /></p>
+</div>

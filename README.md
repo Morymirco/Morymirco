@@ -1,64 +1,66 @@
-<img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&lines=Hi+there!+I'm+Mory+Koulibaly;Software+Developer;Tech+Enthusiast" />
+<img alt="Roaa's Welcome Message"
+			 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=false&vCenter=false&lines=Hi+there!+I'm+Mory">
 
-<h3 align="center">
-Développeur logiciel passionné, orienté résolution de problèmes et création de solutions digitales utiles.
-</h3>
+<h3 align="center">Je suis développeur de logiciels et apprenant passionné, toujours prêt à apprendre et à travailler sur plusieurs technologies. J'aime explorer les nouvelles technologies et essayer de résoudre des problèmes réels.</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=morymirco&label=Profile%20views&color=0e75b6&style=flat" alt="morymirco" /> </p>
 
-### 👨‍💻 À propos de moi
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morymirco" alt="morymirco" /></a> </p>
 
-- 🔭 Je travaille actuellement sur **GeniusClass**
-- 🌱 J’apprends **Next.js, React.js, Symfony, TailwindCSS**
-- 🤝 Ouvert aux collaborations sur **Guibank**
-- 🚀 Projet en cours : **Kambily**
-- 📫 Contact : **morykoulibaly2023@gmail.com**
+- 🔭 I’m currently working on **Geniusclass**
 
----
+- 🌱 I’m currently learning **Nextjs,Reactjs,symfony,bootstrap,tailwindcss**
 
-### ⚡ Stack & Technologies
+- 👯 I’m looking to collaborate on **Guibank's**
 
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=blue)
-![Dart](https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js)
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwind-css)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git)
+- 🤝 I’m looking for help with **Kambily**
 
----
+- 📫 How to reach me **morykoulibaly2023@gmail.com**
+  <br>
+<p align="right">
+  <img align="right" src="theme.png" height="260"/>
+<p>
 
-### 📊 GitHub Stats
+ 🧮 Visitors Count
 
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=morymirco&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morymirco&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</p>
+  <img align="center" src = "https://profile-counter.glitch.me/sabikrahat/count.svg" alt ="Loading">
+</p> 
+⚡ Technologies
+
+![Flutter](https://img.shields.io/badge/Flutter-black?style=flat-square&logo=flutter&logoColor=blue)
+![Dart](https://img.shields.io/badge/Dart-black?style=flat-square&logo=dart)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
+![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-black?style=flat-square&logo=gitlab)
+
 
 <p align="center">
-  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=morymirco&theme=react&hide_border=true&background=0D1117" />
+  <a href="https://github.com/morymirco/">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" height="170px" alt="Sabik Rahat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=morymirco&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
+  </a>
+  <!-- <img align="right" width="300px" height="190px" src="https://user-images.githubusercontent.com/40064496/120735130-6c9e2300-c4c0-11eb-8346-94429163466a.gif" /> -->
 </p>
+<p>
+  <a align="left" href="https://github.com/morymirco/">
+    <img alt="Subham Raoniar's Github Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=sabikrahat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/morymirco/">
+    <img align="right" alt="Sabik Rahat's Top Languages" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabikrahat&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
 
----
-
-### 👀 Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=morymirco&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-
----
-
-### 🚀 Vision
-
-Construire des solutions digitales utiles pour l’Afrique, notamment dans :
-- l’éducation 📚
-- la fintech 💳
-- les services digitaux ⚙️
-
----
+<!-- Most Used Languages -->
+ met a jours 

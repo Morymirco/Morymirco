@@ -1,101 +1,150 @@
-<img alt="Mory's Welcome Message"
-     src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=false&vCenter=false&lines=Hi+there!+I'm+Mory+👋;Full+Stack+Developer+%7C+CTO+%40+ZaLaMa;Building+Africa's+digital+future+🌍"/>
+<div align="center">
 
-<h3 align="center">Développeur Full Stack & CTO basé à Conakry, Guinée 🇬🇳 — Je conçois des produits digitaux à fort impact pour l'Afrique : fintech, e-commerce, mobilité et agritech. Fondateur de MIRCO LGV, j'aime transformer des idées ambitieuses en solutions concrètes et scalables.</h3>
+<img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E85D04&center=true&vCenter=true&width=600&lines=Mory+Mirco+Koulibaly;Full+Stack+Developer+%7C+CTO+%40+ZaLaMa;Building+Africa%27s+digital+future+%F0%9F%8C%8D" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=morymirco&label=Profile%20views&color=0e75b6&style=flat" alt="morymirco" />
-</p>
+<br/>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=morymirco&theme=darkhub&no-frame=true&row=1" alt="morymirco" />
-  </a>
-</p>
-
----
-
-- 🔭 Je travaille actuellement sur **ZaLaMa** — plateforme fintech guinéenne d'avances sur salaire & gestion de paie
-- 🚀 Projets actifs : **Bradrive** (ride-hailing), **GuineaFood** (food delivery), **Kambily** (e-commerce), **Findaara** (agritech)
-- 🏢 Fondateur de **MIRCO LGV** — agence de transformation digitale pour startups africaines
-- 🌱 En cours d'apprentissage : **NestJS, cybersécurité, fine-tuning LLM (Mistral 7B), Supabase**
-- 🤝 Ouvert à des collaborations sur des projets **fintech, mobilité ou agritech** en Afrique
-- 💬 Demandez-moi à propos de **Flutter, NestJS, Next.js, architecture API, DevOps VPS**
-- 📫 Me contacter : **morykoulibaly2023@gmail.com**
-- 🌐 Portfolio : [portofolio-mory-koulibaly.vercel.app](https://portofolio-mory-koulibaly.vercel.app/)
-
----
-
-## ⚡ Stack Technologique
-
-**Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-black?style=flat-square&logo=flutter&logoColor=blue)
-![Dart](https://img.shields.io/badge/Dart-black?style=flat-square&logo=dart&logoColor=00B4AB)
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
-
-**Backend**
-
-![NestJS](https://img.shields.io/badge/NestJS-black?style=flat-square&logo=nestjs&logoColor=E0234E)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
-![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django&logoColor=092E20)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
-![Supabase](https://img.shields.io/badge/Supabase-black?style=flat-square&logo=supabase)
-
-**DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-![Nginx](https://img.shields.io/badge/Nginx-black?style=flat-square&logo=nginx&logoColor=009639)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-black?style=flat-square&logo=cloudflare)
-![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
-
-**Outils**
-
-![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
-![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma)
-![Stripe](https://img.shields.io/badge/Stripe-black?style=flat-square&logo=stripe&logoColor=6772E5)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/morymirco/">
-    <img title="🔥 Streak Stats" height="170px" alt="Mory's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=morymirco&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
-  </a>
+<p>
+  <b>Développeur Full Stack · Fondateur de MIRCO LGV · Conakry, Guinée 🇬🇳</b>
 </p>
 
 <p>
-  <a href="https://github.com/morymirco/">
-    <img alt="Mory's Github Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=morymirco&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/morymirco/">
-    <img align="right" alt="Mory's Top Languages" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morymirco&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
+  Je conçois des produits digitaux à fort impact pour l'Afrique — fintech, e-commerce, mobilité, agritech.<br/>
+  Je transforme des idées ambitieuses en solutions concrètes et scalables.
 </p>
+
+<p>
+  <a href="https://portofolio-mory-koulibaly.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=E85D04" />
+  </a>
+  <a href="mailto:morykoulibaly2023@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=E85D04" />
+  </a>
+  <a href="https://github.com/morymirco">
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=E85D04" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=morymirco&style=for-the-badge&color=0F172A&label=VUES+PROFIL" />
+</p>
+
+</div>
 
 ---
 
-## 🧮 Visitors Count
+## 🏗️ Ce sur quoi je travaille
 
-<p align="center">
-  <img align="center" src="https://profile-counter.glitch.me/morymirco/count.svg" alt="Loading">
-</p>
+| Projet | Domaine | Rôle | Stack |
+|---|---|---|---|
+| [**ZaLaMa**](https://zalamagn.com) | Fintech · Avances sur salaire | Co-fondateur & CTO | NestJS · MySQL · Flutter |
+| **Bradrive** | Mobilité · Ride-hailing | Lead Dev | NestJS · Next.js · Stripe |
+| **GuineaFood** | Food delivery | Lead Dev | NestJS · Flutter · Cloudflare R2 |
+| **Kambily** | E-commerce | Lead Dev | Django · Next.js |
+| **Findaara** | Agritech | Lead Dev | Next.js · NestJS |
+
+> 🏢 Ces projets sont développés sous l'égide de [**MIRCO LGV**](https://portofolio-mory-koulibaly.vercel.app/) — mon agence de transformation digitale pour les startups africaines.
 
 ---
 
-<p align="center">
+## ⚙️ Stack Technologique
+
+<details>
+<summary><b>📱 Mobile</b></summary>
+<br/>
+
+![Flutter](https://img.shields.io/badge/Flutter-0F172A?style=flat-square&logo=flutter&logoColor=54C5F8)
+![Dart](https://img.shields.io/badge/Dart-0F172A?style=flat-square&logo=dart&logoColor=00B4AB)
+
+</details>
+
+<details>
+<summary><b>🌐 Frontend</b></summary>
+<br/>
+
+![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=next.js)
+![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
+</details>
+
+<details>
+<summary><b>🔧 Backend</b></summary>
+<br/>
+
+![NestJS](https://img.shields.io/badge/NestJS-0F172A?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=node.js&logoColor=339933)
+![Django](https://img.shields.io/badge/Django-0F172A?style=flat-square&logo=django&logoColor=092E20)
+![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=47A248)
+![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=flat-square&logo=supabase&logoColor=3ECF8E)
+
+</details>
+
+<details>
+<summary><b>☁️ DevOps & Cloud</b></summary>
+<br/>
+
+![Nginx](https://img.shields.io/badge/Nginx-0F172A?style=flat-square&logo=nginx&logoColor=009639)
+![Docker](https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=2496ED)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0F172A?style=flat-square&logo=cloudflare&logoColor=F38020)
+![Linux](https://img.shields.io/badge/Linux-0F172A?style=flat-square&logo=linux&logoColor=FCC624)
+![PM2](https://img.shields.io/badge/PM2-0F172A?style=flat-square&logo=pm2&logoColor=2B037A)
+
+</details>
+
+<details>
+<summary><b>🛠️ Outils</b></summary>
+<br/>
+
+![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github)
+![Figma](https://img.shields.io/badge/Figma-0F172A?style=flat-square&logo=figma&logoColor=F24E1E)
+![Stripe](https://img.shields.io/badge/Stripe-0F172A?style=flat-square&logo=stripe&logoColor=6772E5)
+![n8n](https://img.shields.io/badge/n8n-0F172A?style=flat-square&logo=n8n&logoColor=EA4B71)
+
+</details>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=morymirco&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=E85D04&fire=FFB627&currStreakLabel=E85D04" />
+
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=morymirco&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&icon_color=E85D04&title_color=E85D04" />
+
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morymirco&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=E85D04" />
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=morymirco&theme=darkhub&no-frame=true&row=1&margin-w=8" />
+</a>
+
+</div>
+
+---
+
+## 🌱 En ce moment
+
+- 🔐 **Cybersécurité** — Durcissement VPS, audit pénétration, sécurité API
+- 🤖 **Fine-tuning LLM** — Mistral 7B via QLoRA pour cas d'usage africains (ZaBot)
+- 🏦 **Fintech africaine** — Architecture de paiements mobiles (Orange Money, LengoPay)
+- ☁️ **Cloud & DevOps** — Migration Cloudflare R2, optimisation infra NestJS/PM2
+
+---
+
+## 🤝 Collaborons
+
+Je suis ouvert à des collaborations sur des projets **fintech**, **mobilité** ou **agritech** en Afrique.
+
+Vous avez une idée ? Un problème à résoudre ? Un produit à lancer ?
+
+📩 **[morykoulibaly2023@gmail.com](mailto:morykoulibaly2023@gmail.com)**
+
+---
+
+<div align="center">
   <i>« Construire l'Afrique digitale, un commit à la fois. »</i>
-</p>
+  <br/><br/>
+  <img src="https://profile-counter.glitch.me/morymirco/count.svg" alt="Visitors" />
+</div>

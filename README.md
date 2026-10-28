@@ -1,32 +1,36 @@
 <div align="center">
 
-<img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E85D04&center=true&vCenter=true&width=600&lines=Mory+Mirco+Koulibaly;Full+Stack+Developer+%7C+CTO+%40+ZaLaMa;Building+Africa%27s+digital+future+%F0%9F%8C%8D" />
+<img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E85D04&center=true&vCenter=true&width=720&lines=Mory+Mirco+Koulibaly;Full+Stack+Developer+%7C+CTO+%40+ZaLaMa;Fintech+%E2%80%A2+Mobilit%C3%A9+%E2%80%A2+E-commerce+%E2%80%A2+Agritech;Building+Africa's+digital+future+%F0%9F%8C%8D" />
 
 <br/>
 
-<p>
-  <b>Développeur Full Stack · Fondateur de MIRCO LGV · Conakry, Guinée 🇬🇳</b>
-</p>
+<b>Développeur Full Stack · Co-fondateur &amp; CTO @ ZaLaMa · Fondateur de MIRCO LGV</b>
+<br/>
+<sub>Conakry, Guinée 🇬🇳 — je transforme des idées ambitieuses en produits concrets et scalables à fort impact pour l'Afrique.</sub>
 
-<p>
-  Je conçois des produits digitaux à fort impact pour l'Afrique — fintech, e-commerce, mobilité, agritech.<br/>
-  Je transforme des idées ambitieuses en solutions concrètes et scalables.
-</p>
+<br/><br/>
 
-<p>
-  <a href="https://portofolio-mory-koulibaly.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=E85D04" />
-  </a>
-  <a href="mailto:morykoulibaly2023@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=E85D04" />
-  </a>
-  <a href="https://github.com/morymirco">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=E85D04" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=morymirco&style=for-the-badge&color=0F172A&label=VUES+PROFIL" />
-</p>
+<a href="https://portofolio-mory-koulibaly.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=E85D04" />
+</a>
+<a href="mailto:morykoulibaly2023@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=E85D04" />
+</a>
+<a href="https://github.com/morymirco">
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=E85D04" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=morymirco&style=for-the-badge&color=0F172A&label=VUES+PROFIL" />
 
 </div>
+
+---
+
+## 🏆 À retenir
+
+- 🥇 **Grand Prix ANSUTEN de la Tech &amp; de l'Innovation 2025** — remporté avec **Findaara** (agritech)
+- 🏦 **Co-fondateur &amp; CTO de [ZaLaMa](https://zalamagn.com)** — fintech guinéenne : avance sur salaire &amp; financement de la masse salariale
+- 🚀 **Fondateur de [MIRCO LGV](https://portofolio-mory-koulibaly.vercel.app/)** — agence de transformation digitale pour les startups africaines
+- 💡 Produits livrés de bout en bout : **conception → backend → mobile/web → déploiement → sécurité**
 
 ---
 
@@ -34,7 +38,7 @@
 
 | Projet | Domaine | Rôle | Stack |
 |---|---|---|---|
-| [**ZaLaMa**](https://zalamagn.com) | Fintech · Avances sur salaire | Co-fondateur & CTO | NestJS · MySQL · Flutter |
+| [**ZaLaMa**](https://zalamagn.com) | Fintech · Avances sur salaire | Co-fondateur &amp; CTO | NestJS · MySQL · Flutter |
 | **Bradrive** | Mobilité · Ride-hailing | Lead Dev | NestJS · Next.js · Stripe |
 | **GuineaFood** | Food delivery | Lead Dev | NestJS · Flutter · Cloudflare R2 |
 | **Kambily** | E-commerce | Lead Dev | Django · Next.js |
@@ -44,9 +48,9 @@
 
 ---
 
-## ⚙️ Stack Technologique
+## ⚙️ Stack technologique
 
-<details>
+<details open>
 <summary><b>📱 Mobile</b></summary>
 <br/>
 
@@ -81,7 +85,7 @@
 </details>
 
 <details>
-<summary><b>☁️ DevOps & Cloud</b></summary>
+<summary><b>☁️ DevOps &amp; Cloud</b></summary>
 <br/>
 
 ![Nginx](https://img.shields.io/badge/Nginx-0F172A?style=flat-square&logo=nginx&logoColor=009639)
@@ -111,8 +115,9 @@
 <div align="center">
 
 <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=morymirco&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=E85D04&fire=FFB627&currStreakLabel=E85D04" />
-
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=morymirco&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&icon_color=E85D04&title_color=E85D04" />
+
+<br/>
 
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morymirco&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=E85D04" />
 
@@ -126,20 +131,25 @@
 
 ## 🌱 En ce moment
 
-- 🔐 **Cybersécurité** — Durcissement VPS, audit pénétration, sécurité API
-- 🤖 **Fine-tuning LLM** — Mistral 7B via QLoRA pour cas d'usage africains (ZaBot)
-- 🏦 **Fintech africaine** — Architecture de paiements mobiles (Orange Money, LengoPay)
-- ☁️ **Cloud & DevOps** — Migration Cloudflare R2, optimisation infra NestJS/PM2
+- 🔐 **Cybersécurité** — durcissement VPS, tests de pénétration, sécurité des API
+- 🤖 **Fine-tuning LLM** — Mistral 7B via QLoRA pour des cas d'usage africains (ZaBot)
+- 🏦 **Fintech africaine** — architecture de paiements mobiles (Orange Money, LengoPay) &amp; intégration USSD
+- ☁️ **Cloud &amp; DevOps** — migration Cloudflare R2, optimisation de l'infra NestJS / PM2
 
 ---
 
 ## 🤝 Collaborons
 
-Je suis ouvert à des collaborations sur des projets **fintech**, **mobilité** ou **agritech** en Afrique.
+Je suis ouvert à des collaborations sur des projets **fintech**, **mobilité**, **e-commerce** ou **agritech** en Afrique.
 
-Vous avez une idée ? Un problème à résoudre ? Un produit à lancer ?
+Une idée à concrétiser ? Un problème à résoudre ? Un produit à lancer ?
 
-📩 **[morykoulibaly2023@gmail.com](mailto:morykoulibaly2023@gmail.com)**
+<a href="mailto:morykoulibaly2023@gmail.com">
+  <img src="https://img.shields.io/badge/Écrivez--moi-E85D04?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://portofolio-mory-koulibaly.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Voir%20mon%20portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=E85D04" />
+</a>
 
 ---
 

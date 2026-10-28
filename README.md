@@ -56,6 +56,8 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-0F172A?style=flat-square&logo=flutter&logoColor=54C5F8)
 ![Dart](https://img.shields.io/badge/Dart-0F172A?style=flat-square&logo=dart&logoColor=00B4AB)
+![React Native](https://img.shields.io/badge/React_Native-0F172A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-0F172A?style=flat-square&logo=expo&logoColor=FFFFFF)
 
 </details>
 
@@ -79,7 +81,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=node.js&logoColor=339933)
 ![Django](https://img.shields.io/badge/Django-0F172A?style=flat-square&logo=django&logoColor=092E20)
 ![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=47A248)
+![Firebase](https://img.shields.io/badge/Firebase-0F172A?style=flat-square&logo=firebase&logoColor=FFCA28)
 ![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=flat-square&logo=supabase&logoColor=3ECF8E)
 
 </details>
